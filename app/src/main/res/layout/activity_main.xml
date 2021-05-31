@@ -12,12 +12,12 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:text="Peter" />
+        android:text="@string/son" />
 
     <Button
         android:id="@+id/buttonCallDaughter"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:text="Mary" />
+        android:text="@string/daughter" />
 </LinearLayout>
